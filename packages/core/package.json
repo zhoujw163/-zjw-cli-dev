@@ -1,6 +1,6 @@
 {
   "name": "@zjw-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> zjw-cli-dev core",
   "author": "zhoujiawei <18720989328@163.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"packages core run test\""
   },
   "dependencies": {
-    "@zjw-cli-dev/utils": "^1.0.0"
+    "@zjw-cli-dev/utils": "^1.0.1"
   },
   "gitHead": "561ee7469fa05178601e9d77581173ff40d39eec",
   "publishConfig": {
