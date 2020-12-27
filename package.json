@@ -2,6 +2,9 @@
   "name": "zjw-cli-dev",
   "version": "1.0.0",
   "description": "",
+  "bin": {
+    "zjw-cli-dev": "bin/index.js"
+  },
   "main": "index.js",
   "dependencies": {
     "lerna": "^3.22.1"
