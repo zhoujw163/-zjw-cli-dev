@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"packages utils run test\""
-  },
-  "dependencies": {}
+  }
 }
