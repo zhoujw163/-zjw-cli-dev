@@ -1,0 +1,20 @@
+{
+  "name": "@zjw-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "> zjw-cli-dev utils",
+  "author": "zhoujiawei <18720989329@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"packages utils run test\""
+  },
+  "dependencies": {}
+}
