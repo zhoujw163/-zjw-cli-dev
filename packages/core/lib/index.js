@@ -3,5 +3,5 @@
 module.exports = core;
 
 function core() {
-    console.log('core');
+    console.log('zjw-cli');
 }

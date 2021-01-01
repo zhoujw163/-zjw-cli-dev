@@ -5,7 +5,10 @@
   "author": "zhoujiawei <18720989328@163.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "lib/core.js",
+  "bin": {
+    "zjw-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,7 +20,7 @@
     "test": "echo \"packages core run test\""
   },
   "dependencies": {
-    "@zjw-cli-dev/utils": "^1.0.1"
+    "@zjw-cli-dev/utils": "file:../utils"
   },
   "gitHead": "561ee7469fa05178601e9d77581173ff40d39eec",
   "publishConfig": {
