@@ -1,6 +1,6 @@
 {
   "name": "zjw-cli-dev",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "bin": {
     "zjw-cli-dev": "bin/index.js"
